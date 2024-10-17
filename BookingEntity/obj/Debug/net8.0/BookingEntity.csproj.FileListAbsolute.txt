@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\Booking App\BookingEntity\bin\Debug\net8.0\BookingEntity.deps.json
+C:\Users\ACER\source\repos\Booking App\BookingEntity\bin\Debug\net8.0\BookingEntity.dll
+C:\Users\ACER\source\repos\Booking App\BookingEntity\bin\Debug\net8.0\BookingEntity.pdb
+C:\Users\ACER\source\repos\Booking App\BookingEntity\obj\Debug\net8.0\BookingEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Booking App\BookingEntity\obj\Debug\net8.0\BookingEntity.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Booking App\BookingEntity\obj\Debug\net8.0\BookingEntity.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Booking App\BookingEntity\obj\Debug\net8.0\BookingEntity.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Booking App\BookingEntity\obj\Debug\net8.0\BookingEntity.dll
+C:\Users\ACER\source\repos\Booking App\BookingEntity\obj\Debug\net8.0\refint\BookingEntity.dll
+C:\Users\ACER\source\repos\Booking App\BookingEntity\obj\Debug\net8.0\BookingEntity.pdb
+C:\Users\ACER\source\repos\Booking App\BookingEntity\obj\Debug\net8.0\ref\BookingEntity.dll

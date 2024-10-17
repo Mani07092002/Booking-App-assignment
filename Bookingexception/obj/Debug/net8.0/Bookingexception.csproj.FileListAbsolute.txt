@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\Booking App\Bookingexception\bin\Debug\net8.0\Bookingexception.deps.json
+C:\Users\ACER\source\repos\Booking App\Bookingexception\bin\Debug\net8.0\Bookingexception.dll
+C:\Users\ACER\source\repos\Booking App\Bookingexception\bin\Debug\net8.0\Bookingexception.pdb
+C:\Users\ACER\source\repos\Booking App\Bookingexception\obj\Debug\net8.0\Bookingexception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Booking App\Bookingexception\obj\Debug\net8.0\Bookingexception.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Booking App\Bookingexception\obj\Debug\net8.0\Bookingexception.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Booking App\Bookingexception\obj\Debug\net8.0\Bookingexception.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Booking App\Bookingexception\obj\Debug\net8.0\Bookingexception.dll
+C:\Users\ACER\source\repos\Booking App\Bookingexception\obj\Debug\net8.0\refint\Bookingexception.dll
+C:\Users\ACER\source\repos\Booking App\Bookingexception\obj\Debug\net8.0\Bookingexception.pdb
+C:\Users\ACER\source\repos\Booking App\Bookingexception\obj\Debug\net8.0\ref\Bookingexception.dll

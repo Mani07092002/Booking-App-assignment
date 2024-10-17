@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BookingEntity\BookingEntity.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BookingEntity">
+      <HintPath>..\BookingEntity\bin\Debug\net8.0\BookingEntity.dll</HintPath>
+    </Reference>
+    <Reference Include="Bookingexception">
+      <HintPath>..\Bookingexception\bin\Debug\net8.0\Bookingexception.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
