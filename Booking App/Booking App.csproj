@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Booking_App</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BookingDao">
+      <HintPath>..\BookingDao\bin\Debug\net8.0\BookingDao.dll</HintPath>
+    </Reference>
+    <Reference Include="BookingEntity">
+      <HintPath>..\BookingEntity\bin\Debug\net8.0\BookingEntity.dll</HintPath>
+    </Reference>
+    <Reference Include="Bookingexception">
+      <HintPath>..\Bookingexception\bin\Debug\net8.0\Bookingexception.dll</HintPath>
+    </Reference>
+    <Reference Include="BookingUtil">
+      <HintPath>..\BookingUtil\bin\Debug\net8.0\BookingUtil.dll</HintPath>
+    </Reference>
+    <Reference Include="Entity">
+      <HintPath>..\..\Entity\bin\Debug\net8.0\Entity.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
