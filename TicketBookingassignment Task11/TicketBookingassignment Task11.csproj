@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="TicketDao">
+      <HintPath>..\TicketDao\bin\Debug\net8.0\TicketDao.dll</HintPath>
+    </Reference>
+    <Reference Include="TicketEntity">
+      <HintPath>..\TicketEntity\bin\Debug\net8.0\TicketEntity.dll</HintPath>
+    </Reference>
+    <Reference Include="TicketException">
+      <HintPath>..\TicketException\bin\Debug\net8.0\TicketException.dll</HintPath>
+    </Reference>
+    <Reference Include="Ticketutil">
+      <HintPath>..\Ticketutil\bin\Debug\net8.0\Ticketutil.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
