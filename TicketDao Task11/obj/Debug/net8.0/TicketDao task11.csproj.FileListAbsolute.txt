@@ -1,0 +1,19 @@
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketDao\bin\Debug\net8.0\TicketDao task11.deps.json
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketDao\bin\Debug\net8.0\TicketDao task11.dll
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketDao\bin\Debug\net8.0\TicketDao task11.pdb
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketDao\bin\Debug\net8.0\TicketEntity.dll
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketDao\bin\Debug\net8.0\TicketException.dll
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketDao\bin\Debug\net8.0\Ticketutil.dll
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketDao\bin\Debug\net8.0\TicketEntity.pdb
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketDao\bin\Debug\net8.0\TicketException.pdb
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketDao\bin\Debug\net8.0\Ticketutil.pdb
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketDao\obj\Debug\net8.0\TicketDao task11.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketDao\obj\Debug\net8.0\TicketDao task11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketDao\obj\Debug\net8.0\TicketDao task11.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketDao\obj\Debug\net8.0\TicketDao task11.AssemblyInfo.cs
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketDao\obj\Debug\net8.0\TicketDao task11.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketDao\obj\Debug\net8.0\TicketDa.F51F5C31.Up2Date
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketDao\obj\Debug\net8.0\TicketDao task11.dll
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketDao\obj\Debug\net8.0\refint\TicketDao task11.dll
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketDao\obj\Debug\net8.0\TicketDao task11.pdb
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketDao\obj\Debug\net8.0\ref\TicketDao task11.dll
