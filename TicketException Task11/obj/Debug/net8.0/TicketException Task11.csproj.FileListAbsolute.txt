@@ -1,0 +1,12 @@
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketException\bin\Debug\net8.0\TicketException Task11.deps.json
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketException\bin\Debug\net8.0\TicketException Task11.dll
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketException\bin\Debug\net8.0\TicketException Task11.pdb
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketException\obj\Debug\net8.0\TicketException Task11.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketException\obj\Debug\net8.0\TicketException Task11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketException\obj\Debug\net8.0\TicketException Task11.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketException\obj\Debug\net8.0\TicketException Task11.AssemblyInfo.cs
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketException\obj\Debug\net8.0\TicketException Task11.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketException\obj\Debug\net8.0\TicketException Task11.dll
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketException\obj\Debug\net8.0\refint\TicketException Task11.dll
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketException\obj\Debug\net8.0\TicketException Task11.pdb
+C:\Users\ACER\source\repos\TicketBookingassignment\TicketException\obj\Debug\net8.0\ref\TicketException Task11.dll
