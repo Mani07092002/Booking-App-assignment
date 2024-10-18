@@ -1,0 +1,12 @@
+C:\Users\ACER\source\repos\TicketBookingassignment\Ticketutil\bin\Debug\net8.0\Ticketutil.deps.json
+C:\Users\ACER\source\repos\TicketBookingassignment\Ticketutil\bin\Debug\net8.0\Ticketutil.dll
+C:\Users\ACER\source\repos\TicketBookingassignment\Ticketutil\bin\Debug\net8.0\Ticketutil.pdb
+C:\Users\ACER\source\repos\TicketBookingassignment\Ticketutil\obj\Debug\net8.0\Ticketutil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\TicketBookingassignment\Ticketutil\obj\Debug\net8.0\Ticketutil.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\TicketBookingassignment\Ticketutil\obj\Debug\net8.0\Ticketutil.AssemblyInfo.cs
+C:\Users\ACER\source\repos\TicketBookingassignment\Ticketutil\obj\Debug\net8.0\Ticketutil.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\TicketBookingassignment\Ticketutil\obj\Debug\net8.0\Ticketutil.dll
+C:\Users\ACER\source\repos\TicketBookingassignment\Ticketutil\obj\Debug\net8.0\refint\Ticketutil.dll
+C:\Users\ACER\source\repos\TicketBookingassignment\Ticketutil\obj\Debug\net8.0\Ticketutil.pdb
+C:\Users\ACER\source\repos\TicketBookingassignment\Ticketutil\obj\Debug\net8.0\ref\Ticketutil.dll
+C:\Users\ACER\source\repos\TicketBookingassignment\Ticketutil\obj\Debug\net8.0\Ticketutil.csproj.AssemblyReference.cache
